@@ -1,12 +1,12 @@
-# 🏟️ Sporta
+# Sporta
 
 **Sporta** es una aplicación para reservar canchas deportivas de forma rápida y sencilla. Conecta a jugadores con complejos deportivos, permitiendo ver disponibilidad en tiempo real, reservar y pagar online.
 
-## 📌 Estado del proyecto
+## Estado del proyecto
 
-🚧 En desarrollo — versión inicial (MVP)
+ En desarrollo — versión inicial (MVP)
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 ### MVP
 - [ ] Registro e inicio de sesión de usuarios
@@ -26,7 +26,7 @@
 - [ ] Invitar amigos / compartir reserva
 - [ ] Programa de puntos o descuentos
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 > _Completar según las tecnologías definidas para el proyecto_
 
@@ -37,7 +37,7 @@
 - **Notificaciones:** 
 - **Hosting / Infraestructura:** 
 
-## 🚀 Instalación
+## Instalación
 
 ```bash
 # Clonar el repositorio
@@ -54,14 +54,14 @@ cp .env.example .env
 # npm run dev / etc.
 ```
 
-## ⚙️ Variables de entorno
+## Variables de entorno
 
 | Variable       | Descripción                          |
 |----------------|---------------------------------------|
 | `DATABASE_URL` | Cadena de conexión a la base de datos |
 | `API_KEY`      | Clave para servicios externos         |
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 sporta/
