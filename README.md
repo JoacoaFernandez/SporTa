@@ -28,14 +28,12 @@
 
 ## Stack tecnológico
 
-> _Completar según las tecnologías definidas para el proyecto_
-
-- **Frontend:** 
-- **Backend:** 
-- **Base de datos:** 
-- **Pagos:** 
-- **Notificaciones:** 
-- **Hosting / Infraestructura:** 
+- **Frontend:** Tendriamos que verlo en equipo 
+- **Backend:**   Tendriamos que verlo en equipo 
+- **Base de datos:**   Tendriamos que verlo en equipo 
+- **Pagos:**  Tendriamos que verlo en equipo 
+- **Notificaciones:**  Tendriamos que verlo en equipo 
+- **Hosting / Infraestructura:**  Tendriamos que verlo en equipo 
 
 ## Instalación
 
